@@ -1,4 +1,3 @@
--- Control + Shift + P,  >View: Toggle Word Wrap para ver mejor
 
 -- 1. Escribe una consulta que recupere los Vuelos (flights) y su identificador que figuren con status On Time.
 
@@ -18,7 +17,8 @@ WHERE total_amount > 1000000;
 
 
 
--- 3. Escribe una consulta que extraiga todas las columnas de los datos de los modelos de aviones disponibles (aircraft_data). Puede que os aparezca en alguna actualización como "aircrafts_data", revisad las tablas y elegid la que corresponda.
+-- 3. Escribe una consulta que extraiga todas las columnas de los datos de los modelos de aviones disponibles (aircraft_data). 
+-- Puede que os aparezca en alguna actualización como "aircrafts_data", revisad las tablas y elegid la que corresponda.
 
 SELECT *
 FROM aircrafts_data;
